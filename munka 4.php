@@ -10,11 +10,10 @@ $a = 10;
 $b = 15;
 $c  = 12;
 
-<<<<<<< HEAD
-print $a + $b + $b;
-=======
-print $a + $b;
 
+print $a + $b + $b;
+print $a + $b;
+//Ez az Összeadás
 // Kivonás
 //--------------------
 
